@@ -1,2 +1,2 @@
 # ccu-pi
-raspberry pi control for honda ccu
+Replacement for Honda NSX Climate Control Unit
